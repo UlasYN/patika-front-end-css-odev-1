@@ -1,0 +1,37 @@
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+        
+}
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+#ürünlerimiz {
+    text-align: center;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+#anasayfa {
+    text-align: center;
+    list-style-position: inside;
+}
+
+p.fiyat {
+    font-weight: bold;
+}
+
+#hakkımızda {
+    text-align: center;
+}
